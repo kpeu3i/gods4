@@ -1,0 +1,4 @@
+github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/stamp/hid v0.0.0-20190105143849-bc55d7d13ce1 h1:BG7MhC3qshAG6YSA1JiTFdQwXoOSmkAD9jHxfwIwcRM=
+github.com/stamp/hid v0.0.0-20190105143849-bc55d7d13ce1/go.mod h1:8a9qaZSBHmyhaqWfYpMnsvd4paEG6AGdl1TAy+gQkd4=
